@@ -1,0 +1,33 @@
+{
+  "FakeERC1155": {
+    "name": "FakeERC1155",
+    "symbol": "FAKEERC1155",
+    "type": "ERC1155",
+    "url": "https://rinkeby.etherscan.io/address/0x9e2296f6e8b0127ef1a6dd7bcac9a51cfb207dfb",
+    "address": "0x9E2296f6e8B0127ef1A6Dd7BCac9A51Cfb207dfB"
+  },
+  "FakeBAYC": {
+    "name": "FakeBAYC",
+    "symbol": "FAKEBAYC",
+    "type": "ERC721",
+    "url": "https://rinkeby.etherscan.io/address/0x20D5969E551a7e71359F753E08ffF7dfF589020f",
+    "address": "0x20D5969E551a7e71359F753E08ffF7dfF589020f"
+  },
+  "FakeMAGIC": {
+    "name": "FakeMAGIC",
+    "symbol": "FAKEMAGIC",
+    "type": "ERC20",
+    "url": "https://rinkeby.etherscan.io/address/0xb84EE0F959C32F5b56feD4E90EA43318C0162065",
+    "address": "0xb84EE0F959C32F5b56feD4E90EA43318C0162065"
+  },
+  "TreasureNFTOracle": {
+    "name": "TreasureNFTOracle",
+    "url": "https://rinkeby.etherscan.io/address/0x0db13132130b289b8e96a5ea1c83641994d46027",
+    "address": "0x0db13132130b289b8E96a5ea1c83641994D46027"
+  },
+  "TreasureMarketplace": {
+    "name": "TreasureMarketplace",
+    "url": "https://rinkeby.etherscan.io/address/0xc279f4a7e4d60a3113c582a5707d8c639c19c6c8",
+    "address": "0xc279f4A7e4D60A3113c582a5707d8C639C19c6c8"
+  }
+}
